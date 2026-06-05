@@ -1,5 +1,23 @@
 ---
 title: "Renato Pedroso Lauris"
+image: media/profile2.jpeg
+toc: false
+about: 
+  template: trestles
+  # image-shape: round
+  image-width: 17em
+  links:
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/renato-lauris/
+    target: _blank
+  - text: GitHub
+    href: https://github.com/renatolauris
+    target: _blank
+  - text: Twitter X
+    href: https://x.com/Renato_Lauris
+    target: _blank
+  - text: Email
+    href: mailto:renato.lauris@gmail.com
 ---
 
 This is a Quarto website.
