@@ -14,8 +14,8 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: minty
+      dark: zephyr
     css: styles.css
     toc: true
 
