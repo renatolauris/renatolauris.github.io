@@ -1,7 +1,7 @@
 ---
 title: "Renato Pedroso Lauris"
 image: media/profile2.jpeg
-toc: false
+toc: true
 about: 
   template: trestles
   # image-shape: round
