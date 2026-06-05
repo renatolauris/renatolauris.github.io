@@ -3,13 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "renatolauris.github.io"
+  title: "Página do Renato Lauris"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-
+      - href: resources.qmd
+        text: Resources
 format:
   html:
     theme:
@@ -19,4 +20,4 @@ format:
     toc: true
 
 editor: visual
-
+page-layout: full
