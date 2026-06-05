@@ -27,19 +27,8 @@ page-footer:
 format:
   html:
     theme:
-<<<<<<< HEAD
-<<<<<<< HEAD
       litera
-=======
-      light: minty
-      dark: zephyr
->>>>>>> 306b2e23d2390260bd82b71769938876d35435da
-=======
-      light: minty
-      dark: zephyr
->>>>>>> 306b2e23d2390260bd82b71769938876d35435da
     css: styles.css
     toc: true
-
 editor: visual
 page-layout: full
