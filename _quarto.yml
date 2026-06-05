@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Página do Renato Lauris"
+  description: "Análise de dados sobre gastos públicos, auditoria e políticas públicas"
+  # favicon: favicon.ico
   navbar:
     left:
       - href: index.qmd
@@ -11,11 +13,21 @@ website:
       - about.qmd
       - href: resources.qmd
         text: Resources
+      - href: cv/Curriculo de Renato Pedroso Lauris_versaojan-2026.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+        text: CV
+        target: _blank # opens link (or page) in a new browser tab
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/renatolauris
+        target: _blank
+  page-footer:
+    background: light # or `dark` or omit this option altogether (footer color will match page body color)
+    left: Copyright 2026, Renato Pedroso Lauris
+    right: This website is built with {{< fa heart title="a heart" >}}, [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      litera
     css: styles.css
     toc: true
 

@@ -7,16 +7,20 @@ about:
   # image-shape: round
   image-width: 17em
   links:
-  - text: LinkedIn
+  - icon: linkedin
+    text: LinkedIn
     href: https://www.linkedin.com/in/renato-lauris/
     target: _blank
-  - text: GitHub
+  - icon: github
+    text: GitHub
     href: https://github.com/renatolauris
     target: _blank
-  - text: Twitter X
+  - icon: twitter-x
+    text: Twitter X
     href: https://x.com/Renato_Lauris
     target: _blank
-  - text: Email
+  - icon: at
+    text: Email
     href: mailto:renato.lauris@gmail.com
 ---
 
@@ -27,3 +31,7 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+## Projetos
+
+- Análise da Primeira Infância no Brasil
