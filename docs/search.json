@@ -7,6 +7,13 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "index.html#projetos",
+    "href": "index.html#projetos",
+    "title": "Renato Pedroso Lauris",
+    "section": "Projetos",
+    "text": "Projetos\n\nAnálise da Primeira Infância no Brasil"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -14,17 +21,17 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html#projeto",
-    "href": "index.html#projeto",
-    "title": "Renato Pedroso Lauris",
-    "section": "Projeto",
-    "text": "Projeto"
+    "objectID": "postagens.html",
+    "href": "postagens.html",
+    "title": "Blog",
+    "section": "",
+    "text": "teste1\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "index.html#projetos",
-    "href": "index.html#projetos",
-    "title": "Renato Pedroso Lauris",
-    "section": "Projetos",
-    "text": "Projetos\n\nAnálise da Primeira Infância no Brasil"
+    "objectID": "posts/teste1.html",
+    "href": "posts/teste1.html",
+    "title": "teste1",
+    "section": "",
+    "text": "Este é o primeiro post sobre o tema XY."
   }
 ]
